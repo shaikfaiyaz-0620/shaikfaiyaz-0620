@@ -38,7 +38,7 @@ A personal portfolio website built using **HTML, CSS and JavaScript**.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/shaikfaiyaz-0620
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: https://www.linkedin.com/in/faiyaz-shaik-6a4b01421/
 
 ---
 
