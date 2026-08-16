@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Shaik Faiyaz
 
-<!--
-**shaikfaiyaz-0620/shaikfaiyaz-0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Developer | B.Sc. Data Science Student
 
-Here are some ideas to get you started:
+I'm a passionate student interested in **Full Stack Development, Web Development, and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning Full Stack Development
+* 💻 Working with HTML, CSS & JavaScript
+* 🐍 Learning Python
+* 📊 Interested in Data Science
+* 🚀 Building real-world projects
+* 🎯 Goal: Become a skilled Full Stack Developer
+
+## 🛠️ Skills
+
+**Frontend:** HTML • CSS • JavaScript
+
+**Programming:** Python
+
+**Tools:** Git • GitHub • VS Code
+
+## 🌐 My Portfolio
+
+Check out my personal portfolio website:
+
+🔗 https://shaikfaiyaz-0620.github.io/my-portfolio/
+
+## 📂 Featured Project
+
+### My Portfolio Website
+
+A personal portfolio website built using **HTML, CSS and JavaScript**.
+
+🔗 **Live Demo:** https://shaikfaiyaz-0620.github.io/my-portfolio/
+
+🔗 **Source Code:** https://github.com/shaikfaiyaz-0620/my-portfolio
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/shaikfaiyaz-0620
+* LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
